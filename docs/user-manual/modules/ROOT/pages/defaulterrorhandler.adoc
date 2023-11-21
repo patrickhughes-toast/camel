@@ -1,4 +1,4 @@
-= DefaultErrorHandler
+= Default Error Handler
 
 This is the default xref:error-handler.adoc[Error Handler] in Camel.
 
